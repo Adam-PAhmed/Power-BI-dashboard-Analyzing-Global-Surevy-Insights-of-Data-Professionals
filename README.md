@@ -33,7 +33,3 @@ This project analyzes global survey responses from 630 data professionals using 
 - 🐍 Python is the most widely preffered programming language, with Java being least used.  
 - 😐 46% of respondents found it "Easy" or "Very Easy" to enter data roles.  
 - ⚖️ Work-life balance and salary satisfaction scores are generally moderate across all job types (except students with salary).
-
-## 📸 Dashboard Preview
-
-*(Insert screenshots of your Power BI dashboard here)*
